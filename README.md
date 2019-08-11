@@ -2,11 +2,172 @@
 <html>
 <head>
 <title>Page Title</title>
+</head><!DOCTYPE html>
+<html>
+<head>
+<style>
+table, td, th {  
+  border: 0px solid #ddd;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+  width: 60%;
+}
+
+th, td {
+  padding: 5px;
+}
+</style>
 </head>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h1>Karl Edward Roxas</h1>
 
-</body>
-</html>
+<p>28 Legazpi Street, Horacio dela Costa Homes II, Novaliches, Caloocan City.<br>
+Mobile: +63 916 547 0605. Phone: +632 930 3763. E-Mail: karlissimo77@yahoo.com </p>
+<p><em>A seasoned professional with an exceptional track record in the fields of customer service and the financial markets.   Operates with a strong sense of urgency and thrives in a fast paced and dynamic environment. Achieved top marks for the NASD Series 6 Licensure Exams. Assisted in managing a team of 10 to 15 individuals towards achieving the company&#39;s goals. </em></p>
+
+<h2>Experience</h2>
+
+<table style=”width:100%”>
+<tr>
+<th>Nov 2014 to Nov 2018</th>
+<th>Customer Care & Sales Specialist I</th>
+</tr>
+<tr>
+<td></td>
+<td>HSBC Data Processing Phils. Inc.<br>
+Building C1, UP Ayala Land Technohub, Commonwealth Avenue, Diliman, Quezon City.<br>
+859 4329.</td>
+</tr>
+</table>
+
+<ul>
+<li>Answers enquiries from customers on the phone and through chat.</li>
+<li>Listens to customers and establishes their needs in order to offer relevant products, services and solutions.</li>
+<li>Takes ownership to complete the necessary research and follow up to resolve queries or alternatively direct the customer to the appropriate department for resolution.</li>
+</ul>
+
+<table style=”width:100%”>
+<tr>
+<th>Jun 2013 to Oct 2014</th>
+<th>Collections Advisor for Chase Auto Finance</th>
+</tr>
+<tr>
+<td></td>
+<td>JP Morgan Chase Bank N.A.&#8212;Philippine Global Service Center <br>
+8th Floor Net Quad Building. 30th and 31st Streets E. Square, Bonifacio Global City, Taguig City.<br>
+893 1893.</td>
+</tr>
+</table>
+
+<ul>
+<li>Collects past due amounts on Chase Auto Finance accounts which are 3 to 29 days of delinquency.</li>
+<li>Determines the reason for non&#8211;payment, negotiating payment arrangements, offering suggestions to customers on how to meet their obligations.</li>
+<li>Advise customers of possible adverse consequences once such obligations are not met.</li>
+</ul>
+
+<table style=”width:100%”>
+<tr>
+<th>Jan 2010 to Apr 2013</th>
+<th>Client Support Executive&#8212;Investment Banking</th>
+</tr>
+<tr>
+<td></td>
+<td>Thomson Reuters Corporation Pte. Ltd.<br>
+7th Floor 3 World Square Building, 10 Upper McKinley Road, Fort Bonifacio, Taguig City.<br> 
+459 1000.</td>
+</tr>
+</table>
+
+<ul>
+<li>Resolve queries on content and provide functionality training on Thomson ONE Equity, SDC Platinum, VentureXpert, ThomsonONE.com, Thomson ONE Banker Web, Thomson Research, Datafeeds and Lipper Marketplace.</li>
+<li>Scope of support includes bonds and equity, municipal bonds, embargoed research, mergers and acquisitions, ownership, public filings, private equity, and company fundamentals.</li>
+</ul>
+
+<table style=”width:100%”>
+<tr>
+<th>Aug 2005 to Dec 2009</th>
+<th>Customer Service Associate 3</th>
+</tr>
+<tr>
+<td></td>
+<td>Ameriprise Financial<br>
+Aug 2005 to Aug 2009:  Etelecare Global Solutions, Inc.<br>
+20th Floor CyberOne Building, Eastwood City, Libis, Quezon City.<br>
+916 5670.<br>
+Aug 2009 to Jan 2010:  Sykes Asia Inc.<br>
+26th Floor Robinson&#39;s Summit Building, 6733 Ayala Avenue, Makati City.<br>
+817 8781.
+</td>
+</tr>
+</table>
+
+<ul>
+<li>Executes buy and sell mutual fund and certificate trades for clients and internal advisors.</li>
+<li>Responsible for sending the proceeds of any sell trade as per the requestor&#39;s instructions.</li>
+<li>Receives inquiries on regulations about trading securities in the US.</li>
+</ul>
+
+<table style=”width:100%”>
+<tr>
+<th>May 2005 to Aug 2005</th>
+<th>Account Manager</th>
+</tr>
+<tr>
+<td></td>
+<td>Branders.Com.<br>
+30th Floor Union Bank Plaza, Meralco Avenue corner Onyx Street, Ortigas Center, Pasig City.<br>
+637 1574.</td>
+</tr>
+</table>
+
+<ul>
+<li>Promotes Branders.Com&#39;s services to companies in the US.</li>
+<li>Conducts research on qualified companies when needed.</li>
+<li>Prepares the costing for mock up promotional items upon request.</li>
+</ul>
+
+<table style=”width:100%”>
+<tr>
+<th>Sep 2002 to Mar 2005</th>
+<th>Team Lead</th>
+</tr>
+<tr>
+<td></td>
+<td>InfoNXX Philippines, Inc.<br>
+11th Floor RCBC Plaza Tower 2, Ayala Avenue corner Gil Puyat Avenue, Makati City.<br>
+755 1600.</td>
+</tr>
+</table>
+
+<ul>
+<li>Provides assistance to representatives with complicated directory listings and irate customers.</li>
+<li>Improves their performance through technique analysis, intensive coaching, and monitoring.</li>
+<li>Implemented various drills for enhancement of call management skills and call efficiency.</li>
+<li>Prepares productivity and quality monitoring reports on a weekly basis.</li>
+</ul>
+
+<table style=”width:100%”>
+<tr>
+<th>Jun 2001 to Sep 2002</th>
+<th>Call Center Agent</th>
+</tr>
+<tr>
+<td></td>
+<td>Software Ventures Inc.<br>
+5th Floor Orient Square Building, Emerald Avenue, Ortigas Center, Pasig City.<br>
+638 2767</td>
+</tr>
+</table>
+
+<ul>
+<li>Conducts outbound calls to US clients to solicit sales for products or services.</li>
+<li>Delivers prepared sales talks that describe our products to turn contacts into purchases.</li>
+<li>Updates customers&#39; information in order to process their orders.</li>
+</ul>
+
+
+
